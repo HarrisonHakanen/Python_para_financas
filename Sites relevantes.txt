@@ -1,0 +1,8 @@
+https://www.infomoney.com.br/cotacoes/empresas-b3/
+
+
+https://www.projectpro.io/article/stock-price-prediction-using-machine-learning-project/571
+
+https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/
+
+https://github.com/alissonf216/financas-quantitativas-com-python/blob/master/Machine%20learnig%20-%20Prevendo%20o%20pre%C3%A7o%20das%20a%C3%A7%C3%B5es%20com%20Python.ipynb
